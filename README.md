@@ -25,7 +25,7 @@ VibeStream is a web application built with ReactJS that replicates core Spotify 
    ```bash
    git clone https://github.com/your-username/vibestream.git
    cd vibestream
-
+```
 
 ## Acknowledgements
 - Spotify for Developers for providing the Web API and documentation.
